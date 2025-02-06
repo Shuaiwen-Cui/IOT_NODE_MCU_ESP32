@@ -119,6 +119,8 @@ plugins:
             INSTRUCTIONS: 项目说明
             PROJECT INITIALIZATION: 项目初始化
             TUTORIALS: 教程
+            ALIENTEK: 正点原子系列
+            DURUOFU: 杜若甫系列
             ARCHITECTURE: 架构
 
 
@@ -254,6 +256,8 @@ nav:
       - PROJECT INITIALIZATION: "INSTRUCTIONS/PROJECT-INITIALIZATION/project-initialization.md"
   - TUTORIALS: 
       - "TUTORIALS/tutorials.md"
+      - ALIENTEK: "TUTORIALS/ALIENTEK/alientek.md"
+      - DURUOFU: "TUTORIALS/DURUOFU/duruofu.md"
   - ARCHITECTURE:
       - ARCHITECTURE: "ARCHITECTURE/ARCHITECTURE/architecture.md"
 

@@ -29,6 +29,13 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/INSTRUCTIONS/PROJECT-INITIALIZATION/project-initialization/"/>
     </url>
     <url>
+        <loc>https://localhost:8000/TUTORIALS/tutorials/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/TUTORIALS/tutorials/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/TUTORIALS/tutorials/"/>
+    </url>
+    <url>
         <loc>https://localhost:8000/blog/</loc>
         <lastmod>2025-02-06</lastmod>
         <changefreq>daily</changefreq>
@@ -62,6 +69,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/INSTRUCTIONS/PROJECT-INITIALIZATION/project-initialization/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/INSTRUCTIONS/PROJECT-INITIALIZATION/project-initialization/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/zh/TUTORIALS/tutorials/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/TUTORIALS/tutorials/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/TUTORIALS/tutorials/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/blog/</loc>
