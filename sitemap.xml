@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://localhost:8000/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/ARCHITECTURE/ARCHITECTURE/architecture/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/ARCHITECTURE/ARCHITECTURE/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/ARCHITECTURE/ARCHITECTURE/architecture/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/ARCHITECTURE/ROADMAP/roadmap/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/ARCHITECTURE/ROADMAP/roadmap/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/ARCHITECTURE/ROADMAP/roadmap/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/INSTRUCTIONS/instructions/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/INSTRUCTIONS/instructions/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/INSTRUCTIONS/instructions/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/INSTRUCTIONS/PROJECT-FRAMEWORK/project-framework/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/INSTRUCTIONS/PROJECT-FRAMEWORK/project-framework/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/INSTRUCTIONS/PROJECT-FRAMEWORK/project-framework/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/INSTRUCTIONS/PROJECT-INITIALIZATION/project-initialization/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/INSTRUCTIONS/PROJECT-INITIALIZATION/project-initialization/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/INSTRUCTIONS/PROJECT-INITIALIZATION/project-initialization/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/blog/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/blog/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/blog/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/zh/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/zh/ARCHITECTURE/ARCHITECTURE/architecture/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/ARCHITECTURE/ARCHITECTURE/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/ARCHITECTURE/ARCHITECTURE/architecture/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/zh/ARCHITECTURE/ROADMAP/roadmap/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/ARCHITECTURE/ROADMAP/roadmap/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/ARCHITECTURE/ROADMAP/roadmap/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/zh/INSTRUCTIONS/instructions/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/INSTRUCTIONS/instructions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/INSTRUCTIONS/instructions/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/zh/INSTRUCTIONS/PROJECT-FRAMEWORK/project-framework/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/INSTRUCTIONS/PROJECT-FRAMEWORK/project-framework/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/INSTRUCTIONS/PROJECT-FRAMEWORK/project-framework/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/zh/INSTRUCTIONS/PROJECT-INITIALIZATION/project-initialization/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/INSTRUCTIONS/PROJECT-INITIALIZATION/project-initialization/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/INSTRUCTIONS/PROJECT-INITIALIZATION/project-initialization/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/zh/blog/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/blog/"/>
+    </url>
+</urlset>
