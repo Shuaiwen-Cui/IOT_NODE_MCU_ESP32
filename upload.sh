@@ -18,6 +18,6 @@ git push -f https://github.com/Shuaiwen-Cui/IOT_NODE_MCU_ESP32.git main
 # git push -u origin main
 echo '--------push to GitHub successfully--------'
 
-cd ./MCU_DOC/
+cd ./DOC/
 mkdocs gh-deploy
 echo '--------deployed to Github Pages sucessfully--------'
