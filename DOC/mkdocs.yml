@@ -118,46 +118,9 @@ plugins:
             # ESP32: ESP32
             INSTRUCTIONS: 项目说明
             PROJECT INITIALIZATION: 项目初始化
-            PROJECT FRAMEWORK: 项目框架
+            TUTORIALS: 教程
             ARCHITECTURE: 架构
-            ROADMAP: 路线图
-            MAIN-CONTROL: 主控
-            HARDWARE: 硬件
-            ESPTIMER: 定时器
-            RTC: 实时时钟
-            SPI: 串行外设接口SPI
-            RNG: 随机数发生器
-            TF-CARD: TF卡
-            FILE-SYSTEM: 文件系统
-            PERCEPTION: 感知
-            BUILT-IN THERMOMETER: 内置温度传感器
-            COMMUNICATION: 通信
-            INTERFACING: 交互
-            LED: LED灯
-            RGB: RGB灯
-            KEY: 按键
-            KEY-INTERRUPT: 按键中断
-            LCD: 液晶显示屏
-            RELEASE: 发布
-            CODE: 代码
-            CMAKE: 项目CMakeLists
-            MAIN: 主程序
-            APP: 应用程序
-            COMPONENTS: 组件
-            SETUP: 设置
-            LED: LED灯
-            RGB: RGB灯
-            KEY: 按键
-            EXIT: 外部中断
-            SPI: 串行外设接口SPI
-            LCD: 液晶显示屏
-            TIM: 定时器
-            RTC: 实时时钟
-            RNG: 随机数发生器
-            SPIFFS: SPIFFS文件系统
-            SDIO: TF卡和FATFS文件系统
-            TINYSHM: TinySHM库
-            CONFIG: TinySHM配置
+
 
 
 # # Hooks
@@ -289,9 +252,10 @@ nav:
   - INSTRUCTIONS: 
       - "INSTRUCTIONS/instructions.md"
       - PROJECT INITIALIZATION: "INSTRUCTIONS/PROJECT-INITIALIZATION/project-initialization.md"
+  - TUTORIALS: 
+      - "TUTORIALS/tutorials.md"
   - ARCHITECTURE:
       - ARCHITECTURE: "ARCHITECTURE/ARCHITECTURE/architecture.md"
-
 
 
 

@@ -115,4 +115,4 @@ Then, ensure the serial port number is corrrect, the target board is selected, t
 ## CONCLUSIONS
 
 !!! note
-    This project sets up the minimal system development board DNESP32S3M, and this project can serve as a useful template for future development. Compared to STM32, many low level details are hidden from the user, therefore the set up process is much simpler.
+    This project sets up the development board DNESP32S3, and this project can serve as a useful template for future development. Compared to STM32, many low level details are hidden from the user, therefore the set up process is much simpler.
