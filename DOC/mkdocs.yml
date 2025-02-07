@@ -122,6 +122,7 @@ plugins:
             ALIENTEK: 正点原子系列
             DURUOFU: 杜若甫系列
             ARCHITECTURE: 架构
+            GET-STARTED: 快速上手
 
 
 
@@ -260,6 +261,8 @@ nav:
       - DURUOFU: "TUTORIALS/DURUOFU/duruofu.md"
   - ARCHITECTURE:
       - ARCHITECTURE: "ARCHITECTURE/ARCHITECTURE/architecture.md"
+  - GET-STARTED: 
+      - "GET-STARTED/get-started.md"
 
 
 

@@ -36,6 +36,20 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/TUTORIALS/tutorials/"/>
     </url>
     <url>
+        <loc>https://localhost:8000/TUTORIALS/ALIENTEK/alientek/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/TUTORIALS/ALIENTEK/alientek/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/TUTORIALS/ALIENTEK/alientek/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/TUTORIALS/DURUOFU/duruofu/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/TUTORIALS/DURUOFU/duruofu/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/TUTORIALS/DURUOFU/duruofu/"/>
+    </url>
+    <url>
         <loc>https://localhost:8000/blog/</loc>
         <lastmod>2025-02-06</lastmod>
         <changefreq>daily</changefreq>
@@ -76,6 +90,20 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/TUTORIALS/tutorials/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/TUTORIALS/tutorials/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/zh/TUTORIALS/ALIENTEK/alientek/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/TUTORIALS/ALIENTEK/alientek/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/TUTORIALS/ALIENTEK/alientek/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/zh/TUTORIALS/DURUOFU/duruofu/</loc>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/TUTORIALS/DURUOFU/duruofu/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/TUTORIALS/DURUOFU/duruofu/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/blog/</loc>
