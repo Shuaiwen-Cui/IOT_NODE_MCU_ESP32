@@ -1,0 +1,2 @@
+source /home/cshwstem/CSW/DEV/IOT_NODE_MCU_ESP32/TUTORIALS/ALIENTEK/09_iic_exio/build/bootloader/gdbinit/symbols
+source /home/cshwstem/CSW/DEV/IOT_NODE_MCU_ESP32/TUTORIALS/ALIENTEK/09_iic_exio/build/bootloader/gdbinit/connect
